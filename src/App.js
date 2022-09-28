@@ -16,6 +16,7 @@ function App() {
         colorValue={colorValue}
         setColorValue={setColorValue}
         setHexValue={setHexValue}
+        setIsDarkText={setIsDarkText}
         isDarkText={isDarkText}
         setDar
       />
